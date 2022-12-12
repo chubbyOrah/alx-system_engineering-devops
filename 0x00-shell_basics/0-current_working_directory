@@ -1,7 +1,9 @@
-bin/bash
-pwd
 #!/bin/bash
+<<<<<<< HEAD
 pwd
 #!/bin/bash hello, hie
 #!/bin/bash new file
 new statement
+=======
+pwd\
+>>>>>>> 765238ca337f27ed5d2942408970f8b20c2384fe
